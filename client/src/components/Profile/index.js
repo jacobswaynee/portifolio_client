@@ -46,15 +46,7 @@ export default function Profile() {
                   steps={[
                     "Junior Web Developer 😎",
                     1000,
-                    "Font-End💻",
-                    1000,
-                    "Junior Software Engineer📱",
-                    1000,
-                    "Javascript & Frameworks 🔴",
-                    1000,
-                    "Javascript & Libraries 🌐",
-                    1000,
-                    "Web  💻",
+                    "Junior Software Engineer 💻",
                     1000,
                   ]}
                 />
