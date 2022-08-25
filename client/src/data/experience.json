@@ -12,13 +12,13 @@
             "heading":"BRAINIEST TRAINING PROGRAM, GERMANY",
             "subHeading":"FROND-END CERTIFICATE",
             "fromDate": "2022",
-            "toDate": "2022"
+            "toDate": "10 Sep 2022"
           },
           {
             "heading":"FOUNDATION TECHNICAL COLLEGE, Zimbabwe",
             "subHeading":"ORDINARY LEVEL",
-            "fromDate":"2015",
-            "toDate":"2013"
+            "fromDate":"2013",
+            "toDate":"2015"
           }
         ]
       },
@@ -28,15 +28,9 @@
         "details": [
           {
             "heading":"Circlecare Medical Supply Company",
-            "subHeading":"Sale Person",
+            "subHeading":"Junior Web Developer",
             "fromDate":"2017",
             "toDate":"2019"
-          },
-          {
-            "heading":"PanTech Company",
-            "subHeading":"Intern Software Engineer",
-            "fromDate":"2019",
-            "toDate":"Oct 2021"
           },
           {
             "heading":"TrebleClef",
