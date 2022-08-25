@@ -59,7 +59,7 @@
       width: 88%;
     }
   }
-  @media screen and (max-width: 898px) {
+  @media only screen and (max-width: 898px) {
     /* .about-me-profile {
       display: none;
     } */
@@ -67,7 +67,7 @@
       width: 100%;
     }
   }
-  @media screen and (max-width: 466px) {
+  @media only screen and (max-width: 466px) {
     .about-me-options {
       display: flex;
       flex-direction: column;
