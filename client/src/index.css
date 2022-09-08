@@ -77,7 +77,7 @@ body ::-webkit-scrollbar-thumb {
 ::-webkit-scrollbar-thumb {
   background-color: rgba(0, 0, 0, 0.2);
 }
-
+/*// resume-container*/
 ::-webkit-scrollbar-track {
   background: hsla(0, 0%, 100%, 0.1);
 }
