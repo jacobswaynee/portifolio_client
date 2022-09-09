@@ -74,26 +74,20 @@ export default function ContactMe(props) {
         <div className="col">
           <h2 className="title">
             {""}
-            <Typical loop={Infinity} steps={["Get In Touch With Me📧", 200]} />
+            <Typical loop={Infinity} steps={["Get In Touch📧", 200]} />
           </h2>
-          <a href="#">
-            <i className="fa fa-facebook-square"></i>
-          </a>
-          <a href="#">
-            <i className="fa fa-google-plus-square"></i>
-          </a>
-          <a href="#">
-            <i className="fa fa-instagram"></i>
-          </a>
-          <a href="#">
-            <i className="fa fa-youtube-square"></i>
-          </a>
-          <a href="#">
-            <i className="fa fa-twitter"></i>
-          </a>
-          <a href="#">
-            <i className="fa fa-linkedin"></i>
-          </a>
+            <a href="https://www.facebook.com/waynemike.jacx1/">
+                <i className="fa fa-facebook-square"></i>
+            </a>
+            <a href="https://github.com/jacobswaynee">
+                <i className="fa fa-github-square"></i>
+            </a>
+            <a href="https://www.instagram.com/mike_w_jacob/">
+                <i className="fa fa-instagram"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/wayne-mike-8a019522a/?locale=en_US">
+                <i className="fa fa-linkedin"></i>
+            </a>
         </div>
         <div className="back-form">
           <div className="img-back">

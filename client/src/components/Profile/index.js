@@ -19,12 +19,6 @@ export default function Profile() {
               <a href="https://www.instagram.com/mike_w_jacob/">
                 <i className="fa fa-instagram"></i>
               </a>
-              {/*<a href="#">*/}
-              {/*  <i className="fa fa-youtube-square"></i>*/}
-              {/*</a>*/}
-              {/*<a href="#">*/}
-              {/*  <i className="fa fa-twitter"></i>*/}
-              {/*</a>*/}
               <a href="https://www.linkedin.com/in/wayne-mike-8a019522a/?locale=en_US">
                 <i className="fa fa-linkedin"></i>
               </a>
@@ -44,7 +38,7 @@ export default function Profile() {
                 <Typical
                   loop={Infinity}
                   steps={[
-                    "Junior Web Developer 😎",
+                    "Junior Web Developer 💻",
                     1000,
                     "Junior Software Engineer 💻",
                     1000,
@@ -53,19 +47,24 @@ export default function Profile() {
               </h1>
             </span>
             <span className="profile-role-tagline">
-                I'm effective verbal and written communication <br/>
-                within the team and I can also be a team<br/> player and able
-                to play a leadership role within the team.<br/>
-                I'm a hardworking and code and deploy scalable, distributed systems.<br/>
-                I'm also curious about how systems work and they fail. <br/>
-                I'm eager to learn new technologies and solutions and I love<br/>
-                open source and collaboration, I love coding.
+              I'm effective verbal and written communication <br />
+              within the team and I can also be a team
+              <br /> player and able to play a leadership role within the team.
+              <br />
+              I'm eager to learn new technologies and solutions and I love
+              <br />
+              open source and collaboration.
             </span>
           </div>
           <div className="profile-options">
-            <button className="btn primary-btn" onClick = {() => ScrollService.ScrollHandler.scrollToHireMe()}>Hire Me</button>
-            <a href="mikecv.pdf" download="wayne mike nyakabau mikecv.pdf">
-              <button className="btn highlighted-btn">Download CV</button>
+            <button
+              className="btn primary-btn"
+              onClick={() => ScrollService.ScrollHandler.scrollToHireMe()}
+            >
+              Hire Me
+            </button>
+            <a href="resume.pdf" download="wayne mike nyakabau resume.pdf">
+              <button className="btn highlighted-btn">Resume</button>
             </a>
           </div>
         </div>

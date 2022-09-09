@@ -87,7 +87,7 @@ export default function Testimonial(props) {
                       alt="no internet connection"
                     ></img>
                     <h5>Tinashe Saruchera</h5>
-                    <p>Graphic designer Circlecare</p>
+                    <p>Colleague</p>
                   </div>
                 </div>
               </div>
@@ -98,7 +98,7 @@ export default function Testimonial(props) {
                       <i className="fa fa-qoute-left" />
                       I patronized Mike and when He delivered, I honestly
                       fell in love with the project He is a very honest guy and
-                      he delivers ontime.
+                      he delivers on time.
                       <i className="fa fa-qoute-left" />
                     </p>
                     <ul className="stars lists-unstyled">
@@ -125,46 +125,10 @@ export default function Testimonial(props) {
                       alt="no internet connection"
                     ></img>
                     <h5>Wellington Magaraba</h5>
-                    <p>CEO PanTech</p>
+                    <p>Project Manager</p>
                   </div>
                 </div>
               </div>
-              {/*<div className="col-lg-12">*/}
-              {/*  <div className="testi-item">*/}
-              {/*    <div className="testi-comment">*/}
-              {/*      <p>*/}
-              {/*        <i className="fa fa-qoute-left" />*/}
-              {/*        “I love that I have always been able to rely on you to talk with me about anything. You have been the best friend and the best colleague I’ve ever worked with, and I look forward to keeping in touch in the future.”*/}
-              {/*        <i className="fa fa-qoute-left" />*/}
-              {/*      </p>*/}
-              {/*      <ul className="stars lists-unstyled">*/}
-              {/*        <li>*/}
-              {/*          <i className="fa fa-star"></i>*/}
-              {/*        </li>*/}
-              {/*        <li>*/}
-              {/*          <i className="fa fa-star"></i>*/}
-              {/*        </li>*/}
-              {/*        <li>*/}
-              {/*          <i className="fa fa-star"></i>*/}
-              {/*        </li>*/}
-              {/*        <li>*/}
-              {/*          <i className="fa fa-star-half-alt"></i>*/}
-              {/*        </li>*/}
-              {/*        <li>*/}
-              {/*          <i className="fa fa-star"></i>*/}
-              {/*        </li>*/}
-              {/*      </ul>*/}
-              {/*    </div>*/}
-              {/*    <div className="client-info">*/}
-              {/*      <img*/}
-              {/*        src={require("../../assets/Testimonial/WhatsApp Image 2022-08-20 at 6.14.03 PM.jpeg").default}*/}
-              {/*        alt="no internet connection"*/}
-              {/*      ></img>*/}
-              {/*      <h5>Alois Muzeya</h5>*/}
-              {/*      <p>Colleague</p>*/}
-              {/*    </div>*/}
-              {/*  </div>*/}
-              {/*</div>*/}
               <div className="col-lg-12">
                 <div className="testi-item">
                   <div className="testi-comment">
@@ -197,7 +161,7 @@ export default function Testimonial(props) {
                       alt="no internet connection"
                     ></img>
                     <h5>Alois T. Muzeya</h5>
-                    <p>Colleague.</p>
+                    <p>Colleague</p>
                   </div>
                 </div>
               </div>
@@ -206,7 +170,8 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-qoute-left" />
-                      “No matter where you work, you will always be my friend until the end. Good luck with your new job. I know you’re going to do great.”
+                      “No matter where you work, you will always be my friend until the end.
+                      Good luck with your new job.”
                       <i className="fa fa-qoute-left" />
                     </p>
                     <ul className="stars lists-unstyled">
@@ -232,8 +197,8 @@ export default function Testimonial(props) {
                       src={require("../../assets/Testimonial/allan.jpeg").default}
                       alt="no internet connection"
                     ></img>
-                    <h5>Allan Tinashe</h5>
-                    <p>Colleague.</p>
+                    <h5>Allan</h5>
+                    <p>Colleague</p>
                   </div>
                 </div>
               </div>
@@ -242,7 +207,8 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-qoute-left" />
-                      “It was great to work with a colleague with a great sense of humor. I know your new coworkers will think the same of you. Best of luck.”
+                      “It was great to work with a colleague with a great sense of humor.
+                      I know your new coworkers will think the same of you.”
                       <i className="fa fa-qoute-left" />
                     </p>
                     <ul className="stars lists-unstyled">
@@ -269,7 +235,7 @@ export default function Testimonial(props) {
                       alt="no internet connection"
                     ></img>
                     <h5>Trevor Jacob</h5>
-                    <p>CEO MP Investment</p>
+                    <p>MD</p>
                   </div>
                 </div>
               </div>
@@ -278,7 +244,8 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-qoute-left" />
-                      “Your decision-making ability is something that’s positively affected me. Now I feel like I can take the lead on tasks assigned to me. Your leadership and presence will be missed.”
+                      “Your decision-making ability is something that's positively affected me.
+                      Now I feel like I can take the lead on tasks assigned to me.”
                       <i className="fa fa-qoute-left" />
                     </p>
                     <ul className="stars lists-unstyled">
@@ -305,7 +272,7 @@ export default function Testimonial(props) {
                       alt="no internet connection"
                     ></img>
                     <h5>Tichaona Gurupira</h5>
-                    <p>CEO Circlecare Medical Supply</p>
+                    <p>Managing Director</p>
                   </div>
                 </div>
               </div>

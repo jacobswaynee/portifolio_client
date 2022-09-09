@@ -15,8 +15,8 @@ export default function AboutMe (props) {
    ScrollService.currentScreenFadeIn.subscribe(fadeInScreenHandler);
 
   const SCREEN_CONSTSANTS = {
-    description: " I am Junior Software Engineer.\n" +
-        "                I'm highly dedicated fresher who's \n" +
+    description: " I am a Junior Software Engineer.\n" +
+        "                I am highly dedicated fresher who's \n" +
         "                seeking a full-time, contract, permanent positions\n" +
         "                in IT department where I can lend my knowledge \n" +
         "                and apply my skills in the industry and also to grow\n" +
@@ -26,7 +26,6 @@ export default function AboutMe (props) {
         "                an asset to any team.",
     highlights: {
       bullets: [
-        "Interactive Front End as per the design",
         "React and Vue.js",
         "Javascript",
         "HTML5 & CSS3",
@@ -65,7 +64,7 @@ export default function AboutMe (props) {
             </div>
             <div className="about-me-options">
             <button className="btn primary-btn" onClick = {() => ScrollService.ScrollHandler.scrollToHireMe()}>Hire Me</button>
-              <a href='mikecv.pdf' download='wayne mike nyakabau mikecv.pdf'>
+              <a href='resume.pdf' download='wayne mike nyakabau resume.pdf'>
                 <button className="btn highlighted-btn">Get Resume</button>
                 </a>
             </div>

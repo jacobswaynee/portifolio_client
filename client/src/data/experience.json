@@ -2,117 +2,123 @@
 
 
 
-    "resume": [
-      {
-        "label": "Education",
-        "logoSrc": "education.svg",
-        
-        "details": [
-          {
-            "heading":"BRAINIEST TRAINING PROGRAM, GERMANY",
-            "subHeading":"FROND-END CERTIFICATE",
-            "fromDate": "2022",
-            "toDate": "10 Sep 2022"
-          },
-          {
-            "heading":"FOUNDATION TECHNICAL COLLEGE, Zimbabwe",
-            "subHeading":"ORDINARY LEVEL",
-            "fromDate":"2013",
-            "toDate":"2015"
-          }
-        ]
-      },
-      {
-        "label": "Work History",
-        "logoSrc": "work-history.svg",
-        "details": [
-          {
-            "heading":"Circlecare Medical Supply Company",
-            "subHeading":"Junior Web Developer",
-            "fromDate":"2017",
-            "toDate":"2019"
-          },
-          {
-            "heading":"TrebleClef",
-            "subHeading":"Junior Front End Developer",
-            "fromDate":"2022",
-            "toDate":"June 2022"
-          },
-          {
-            "heading":"CodeK1ngs",
-            "subHeading":"Junior Software Developer",
-            "fromDate":"2022",
-            "toDate":"Present"
-          }
+  "resume": [
+    {
+      "label": "Education",
+      "logoSrc": "education.svg",
 
-        ]
-      },
-      {
-        "label": "Programming Skills",
-        "logoSrc": "programming-skills.svg",
-        "details": [
-          {
-            "skill": "JavaScript",
-            "ratingPercentage": 90
+      "details": [
+        {
+          "heading":"BRAINIEST TRAINING PROGRAM, GERMANY",
+          "subHeading":"FROND-END CERTIFICATE",
+          "fromDate": "2022",
+          "toDate": "2022"
+        },
+        {
+          "heading":"AMBA EDUCATION, Zimbabwe",
+          "subHeading":"Diploma In Computer Engineering",
+          "fromDate":"2018",
+          "toDate":"2018"
+        },
+        {
+          "heading":"FOUNDATION TECHNICAL COLLEGE, Zimbabwe",
+          "subHeading":"Advanced LEVEL",
+          "fromDate":"2012",
+          "toDate":"2015"
+        }
+      ]
+    },
+    {
+      "label": "Work History",
+      "logoSrc": "work-history.svg",
+      "details": [
+        {
+          "heading":"Circlecare Pvt",
+          "subHeading":"Junior Web Developer",
+          "fromDate":"2020",
+          "toDate":"2021"
+        },
+        {
+          "heading":"TrebleClef Academy",
+          "subHeading":"Junior Front End Developer",
+          "fromDate":"2022",
+          "toDate":"2022"
+        },
+        {
+          "heading":"CodeKings",
+          "subHeading":"Junior Software Engineer",
+          "fromDate":"2021",
+          "toDate":"Present"
+        }
+
+      ]
+    },
+    {
+      "label": "Programming Skills",
+      "logoSrc": "programming-skills.svg",
+      "details": [
+        {
+          "skill": "HTML5",
+          "ratingPercentage": 99
+        },
+        {
+          "skill": "CSS3",
+          "ratingPercentage": 85
+        },
+        {
+          "skill": "JavaScript",
+          "ratingPercentage": 90
+        },
+        {
+          "skill": "React.js",
+          "ratingPercentage": 70
+        },
+        {
+          "skill": "Vue.js",
+          "ratingPercentage": 30
+        },
+        {
+          "skill": "LARAVEL 8|9",
+          "ratingPercentage": 50
+        },
+        {
+          "skill": "BOOTSTRAP & TAILWIND",
+          "ratingPercentage": 85
+        }
+      ]
+    },
+    {
+      "label": "Projects",
+      "logoSrc": "projects.svg",
+      "details": [
+        {
+          "title": "Personal Portfolio Website",
+          "duration": {
+            "fromDate": "2018",
+            "toDate": "Present"
           },
-          {
-            "skill": "React.js",
-            "ratingPercentage": 70
-          },
-          {
-            "skill": "Vue.js",
-            "ratingPercentage": 30
-          },
-          {
-            "skill": "HTML5",
-            "ratingPercentage": 99
-          },
-          {
-            "skill": "CSS3",
-            "ratingPercentage": 85
-          },
-          {
-            "skill": "LARAVEL 8|9",
-            "ratingPercentage": 30
-          },
-          {
-            "skill": "BOOTSTRAP",
-            "ratingPercentage": 55
-          }
-        ]
-      },
-      {
-        "label": "Projects",
-        "logoSrc": "projects.svg",
-        "details": [
-          {
-            "title": "Personal Portfolio Website",
-            "duration": {
-              "fromDate": "2022",
-              "toDate": "2022"
-            },
-            "description": "A Personal Portfolio website to showcase all my details and projects at one place.",
-            "subHeading": "Technologies Used: React JS, Bootstrap"
-          }
-        ]
-      },
-      {
-        "label": "Interests",
-        "logoSrc": "interests.svg",
-        "details": [
-          {
-            "heading": "Music",
-            "description": "Listening to something music is something i can never compromise with, skimming through Spotify's pop songs charts is at times the best stress reliever that i can get my hands on."
-          },
-          {
-            "heading": "Teaching",
-            "description": "Apart from being a tech enthusiast and a code writer, i also love to teach people what i know simply because i believe in sharing."
-          },
-          {
-            "heading": "Competitive Gaming",
-            "description": "I like to challenge my reflexes a lot while competing in football games, pushing the rank and having interactive gaming sessions excites me the most."
-          }
-        ]
-      }
-    ]
+          "description": "A Personal Portfolio website to showcase all my details and projects at one place.",
+          "subHeading": "Technologies Used: React JS, Bootstrap"
+        }
+      ]
+    },
+    {
+      "label": "Interests",
+      "logoSrc": "interests.svg",
+      "details": [
+        {
+          "heading": "Music",
+          "description": "Listening to something music is something i can never compromise with, skimming through Spotify's pop songs charts is at times the best stress reliever that i can get my hands on."
+        },
+        {
+          "heading": "Teaching",
+          "description": "Apart from being a tech enthusiast and a code writer, i also love to teach people what i know simply because i believe in sharing."
+        },
+        {
+          "heading": "Competitive Gaming",
+          "description": "I like to challenge my reflexes a lot while competing in football games, pushing the rank and having interactive gaming sessions excites me the most."
+        }
+      ]
+    }
+  ]
 }
